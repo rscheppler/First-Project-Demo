@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 0fc48a4167eaedf4bad283a4b9fc320a
+guid: 734a6f5b68136eb4aa9d9fa9adae9760
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2006287452684795727
-    second: WindMill_02_0
+      213: -6521117022234578470
+    second: WindMill_01_0
   - first:
-      213: 7655791568726903648
-    second: WindMill_02_1
+      213: -3033164745498791528
+    second: WindMill_01_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -90,13 +90,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WindMill_02_0
+      name: WindMill_01_0
       rect:
         serializedVersion: 2
         x: 0
         y: 25
         width: 204
-        height: 302
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -104,14 +104,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fadf2d0ee1c3c14b90d4291efe620a2
-      internalID: 2006287452684795727
+      spriteID: d899787842be55a4b9e877939804ec1d
+      internalID: -6521117022234578470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WindMill_02_1
+      name: WindMill_01_1
       rect:
         serializedVersion: 2
         x: 229
@@ -125,8 +125,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0007a7c7faafba24eb26c7ada73aebcf
-      internalID: 7655791568726903648
+      spriteID: 9a04d6a96773d77438c862249a392102
+      internalID: -3033164745498791528
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: e6802029cfc5e6a4a88d806ff6b006b9
+    spriteID: a2eeaf20bb010eb4f95a1bb165ee4586
     internalID: 0
     vertices: []
     indices: 
