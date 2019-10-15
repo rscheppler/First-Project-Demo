@@ -10,6 +10,7 @@ using System.Collections.Generic;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class Player : MonoBehaviour {
+
     public float WalkSpeed;
     public float JumpForce;
     public AnimationClip _walk, _jump;
